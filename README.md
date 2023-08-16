@@ -31,4 +31,4 @@ To enhance user experience, I've utilized Bootstrap's modal component. When the 
 
 
 ## Conclusion
-Creating this Tic-Tac-Toe game was an exciting journey in applying web development concepts. I enjoyed implementing the game's logic, user interface, and interactivity. Feel free to explore the code in the included files and have fun playing the game!
+Creating this Tic-Tac-Toe game was an exciting journey in applying web development concepts. I enjoyed implementing the game's logic, user interface, and interactivity. Feel free to explore the code in the included files.
